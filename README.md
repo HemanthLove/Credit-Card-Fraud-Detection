@@ -49,9 +49,5 @@ After downloading, place the `creditcard.csv` file in the project folder before 
 - **F1 Score:** 0.97
 
 ---
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/Credit-Card-Fraud-Detection.git
    cd Credit-Card-Fraud-Detection
