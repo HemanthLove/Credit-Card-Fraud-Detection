@@ -50,13 +50,6 @@ After downloading, place the `creditcard.csv` file in the project folder before 
 
 ---
 
-## 🖼️ Visualizations
-(Include images here if uploaded to an `images` folder in your repo)  
-![Confusion Matrix](images/confusion_matrix.png)  
-![ROC Curve](images/roc_curve.png)
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
